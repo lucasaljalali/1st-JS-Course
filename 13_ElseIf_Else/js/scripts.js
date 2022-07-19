@@ -25,3 +25,15 @@ if(nome == "Lucas") {
 } else {
     log("teste2");
 }
+
+if(nome == "Joaquim") {
+    log("testando");
+} else {
+    log("testando2");
+}
+
+if(nome == "Pedro") {
+    log("testando mais");
+} else {
+    log("testando mais 2");
+}
