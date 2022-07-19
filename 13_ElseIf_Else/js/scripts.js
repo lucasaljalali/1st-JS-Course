@@ -23,5 +23,5 @@ if(idade > 20) {
 if(nome == "Lucas") {
     log("teste");
 } else {
-    log("testando");
+    log("teste2");
 }
