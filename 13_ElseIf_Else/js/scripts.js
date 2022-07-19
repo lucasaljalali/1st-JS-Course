@@ -37,30 +37,3 @@ if(nome == "Pedro") {
 } else {
     log("testando mais 2");
 }
-
-
-/*var idade = 19;
-
-if(idade > 20) {
-    log("Ele pode entrar na festa!");
-} else if(idade >= 18) {
-    log("Ele só pode entrar com autorização.");
-}
-
-if(nome == "Lucas") {
-    log("teste");
-} else {
-    log("teste2");
-}
-
-if(nome == "Joaquim") {
-    log("testando");
-} else {
-    log("testando2");
-}
-
-if(nome == "Pedro") {
-    log("testando mais");
-} else {
-    log("testando mais 2");
-}*/
