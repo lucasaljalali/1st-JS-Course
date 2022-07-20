@@ -44,18 +44,24 @@ var obj = {
 function showInfoLog() {
     if (obj.idade >= 18) {
         log(obj.nome + " pode tirar carteira");
+    } else {
+        log(obj.nome + " não pode tirar carteira")
     }
 
     if (obj.possuiCarro) {
         log(obj.nome + " pode andar de carro");
+    } else {
+        log(obj.nome + " não pode andar de carro")
+        
     }
 }
 
-obj.nome = "Lucas";
-obj.idade = 35;
-obj.possuiCarro = 1;
+obj.nome = "Luna";
+obj.idade = 1;
+obj.possuiCarro = 0;
 
 showInfoLog();
+
 
 
 
