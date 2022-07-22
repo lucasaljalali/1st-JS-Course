@@ -1,10 +1,12 @@
 const log = console.log
 
-var idade = 15;
+var idade = 18;
 var possuiCarro = 1;
 
 if(idade >=18) {
     log("Pode fazer carteira");
+} else {
+    log("Não pode fazer carteira")
 }
 
 if(idade <18) {
@@ -58,7 +60,7 @@ function showInfoLog() {
 
 obj.nome = "Luna";
 obj.idade = 1;
-obj.possuiCarro = 0;
+obj.possuiCarro = 0; 
 
 showInfoLog();
 
