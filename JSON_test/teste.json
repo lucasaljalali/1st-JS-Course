@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Lucas",
+        "age": 34,
+        "isWorking": true,
+        "workDetails": {
+            "company": "Google",
+            "country": "USA"
+        },
+        "hobbies": ["Read", "Run", "Eat"]
+    }
+]
